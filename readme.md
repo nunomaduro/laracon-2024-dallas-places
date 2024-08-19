@@ -14,4 +14,4 @@ BBQ:
 
 Pizza & Martinis:
 
-- louies: https://maps.app.goo.gl/crVNEqiBhnthaHrZA
+- Louies: https://maps.app.goo.gl/crVNEqiBhnthaHrZA
